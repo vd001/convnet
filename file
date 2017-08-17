@@ -1,0 +1,24 @@
+New architectures with promising future potential
+The variants of CNN are likely to dominate the Image Classification architecture design. Attention Modules and SENets are going to become more important in due course.
+
+SENets
+The winning entry of ILSCRV 2017, Squeeze-and-Excitation Networks (SENet), works on Squeeze, Excitation and Scaling operations. Rather than introducing a new spatial for the integration of feature channels, SENets works on a new “feature re-calibration” strategy.
+
+Image Classification SENets
+A schematic representation of SENet model: Squeeze, Excitation and Scaling Operations
+The authors explicitly modeled the interdependence between feature channels. SENets is trained to automatically obtain the importance of each feature channel and use this importance to enhance useful features. In the ILSVRC 2017 contest, SENet model obtained an incredible  2.251% Top-5 error rate on the test set.
+
+Residual Attention Networks
+Residual Attention Network, a convolutional neural network using attention mechanism which can incorporate with state-of-art feed forward network architecture in an end-to-end training fashion. The attention residual learning is used to train very deep Residual Attention Networks which can be easily scaled up to hundreds of layers.
+
+Image Classification AttentionNetworks
+Residual Attention Network Classification Illustration: Selected images illustrating that different features have different corresponding attention masks in Residual Attention Network. The sky mask diminishes low-level background blue color features. The balloon instance mask highlights high-level balloon bottom part features.
+ 
+
+The Path Forward
+ 
+
+unnamed
+Credits: Waitbutwhy
+Today, the processing power of a computer you can buy for $1000 is 1/1000th of the capacity of the human brain. By Moore’s law, we will reach computing power of human brain by 2025 and all of the humanity by 2050. AI’s effectiveness will only accelerate with time. As the availability of data and processing power are no longer holding researchers back, we can assume that the accuracy of Deep Learning models used for Image Classification is going to get better in due course. As a premier applied AI research group, we are here to be a part of this revolution.
+
