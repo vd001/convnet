@@ -7,3 +7,5 @@ https://www.zybuluo.com/vivounicorn/note/872759
 https://github.com/OAID
 
 http://slideplayer.com/slide/9169560/
+
+Learning Discriminative Representation for Skeletal Action Recognition Using LSTM Networks
