@@ -17,3 +17,5 @@ https://github.com/jysung/activity_detection
 http://pr.cs.cornell.edu/humanactivities/
 
 http://ravitejav.weebly.com/rolling.html
+
+http://theorangeduck.com/page/neural-network-not-working
