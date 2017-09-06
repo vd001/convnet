@@ -19,3 +19,7 @@ http://pr.cs.cornell.edu/humanactivities/
 http://ravitejav.weebly.com/rolling.html
 
 http://theorangeduck.com/page/neural-network-not-working
+
+Learning features combination for human action recognition from skeleton sequences https://github.com/dluvizon/harskel
+Interpretable 3D Human Action Analysis with Temporal Convolutional Networks https://github.com/TaeSoo-Kim/TCNActionRecognition
+
