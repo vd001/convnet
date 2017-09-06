@@ -20,6 +20,9 @@ http://ravitejav.weebly.com/rolling.html
 
 http://theorangeduck.com/page/neural-network-not-working
 
+
+action recognition dataset: http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+
 Learning features combination for human action recognition from skeleton sequences https://github.com/dluvizon/harskel
 Interpretable 3D Human Action Analysis with Temporal Convolutional Networks https://github.com/TaeSoo-Kim/TCNActionRecognition
 
