@@ -29,3 +29,5 @@ Learning features combination for human action recognition from skeleton sequenc
 Interpretable 3D Human Action Analysis with Temporal Convolutional Networks https://github.com/TaeSoo-Kim/TCNActionRecognition
 
 http://www.di.ens.fr/willow/research/ltc/
+
+https://hongsong-wang.github.io/
