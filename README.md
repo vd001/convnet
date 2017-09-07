@@ -32,3 +32,4 @@ http://www.di.ens.fr/willow/research/ltc/
 
 https://hongsong-wang.github.io/
 1_Skeleton-based Action Recognition Using LSTM and CNN
+https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/
