@@ -41,3 +41,5 @@ https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-
 https://zhuanlan.zhihu.com/p/27657196
 
 https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks
+
+https://zhuanlan.zhihu.com/p/29435406
