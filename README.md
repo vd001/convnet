@@ -43,3 +43,5 @@ https://zhuanlan.zhihu.com/p/27657196
 https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks
 
 https://zhuanlan.zhihu.com/p/29435406
+
+视频行为识别：https://zhuanlan.zhihu.com/wzmsltw
