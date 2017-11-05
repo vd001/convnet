@@ -46,9 +46,6 @@ https://zhuanlan.zhihu.com/p/29435406
 
 视频行为识别：https://zhuanlan.zhihu.com/wzmsltw
 
-Action Recognition with Improved Trajectories
-Real-time Action Recognition with Enhanced Motion Vector CNNs
-http://bbs.elecfans.com/jishu_485979_1_1.html
 
 
 
