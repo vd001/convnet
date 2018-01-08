@@ -49,3 +49,4 @@ https://zhuanlan.zhihu.com/p/29435406
 
 用pandas处理大数据——节省90%内存消耗的小贴士
 
+Minimizing the Negative Log-Likelihood： http://willwolf.io/2017/05/18/minimizing_the_negative_log_likelihood_in_english/
