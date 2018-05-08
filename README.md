@@ -55,3 +55,4 @@ Minimizing the Negative Log-Likelihood： http://willwolf.io/2017/05/18/minimizi
 http://lipn.fr/∼kanawati/software
 http://jiongqianliang.com
 
+http://36kr.com/p/5090797.html
