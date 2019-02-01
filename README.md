@@ -1,3 +1,5 @@
+
+
 PerfXLab : https://github.com/PerfXLab
 
 Angela Yao https://angelayao.com/publications/
@@ -56,3 +58,13 @@ http://lipn.fr/∼kanawati/software
 http://jiongqianliang.com
 
 http://36kr.com/p/5090797.html
+
+
+https://www.cnblogs.com/BeiGuo-FengGuang/p/9990693.html
+
+http://cache.baiducontent.com/c?m=9d78d513d99006e905b8d42d5b029026475bda257a95c7140cc98e0dd6214c413021b5f9627f505dc4c50b365cf05407aca7696f340622b49ddf883d87fdcd76&p=c4759a40969e12a05aabd13a55&newp=86759a40c58250fc57efdb624553d8224216ed603dd2c44324b9d71fd325001c1b69e7bf21261505d3c776630aab4b57effb3d763c1766dada9fca458ae7c43b6e99&user=baidu&fm=sc&query=autograd&qid=ef1fbf58000593f1&p1=36
+Source code analysis for Autograd
+Robin Dong 发表于 2018年08月23日 12:07 | Hits: 394
+Tag: machine learning | autograd
+
+http://www.cnblogs.com/vamei/tag/Python/default.html?page=2
